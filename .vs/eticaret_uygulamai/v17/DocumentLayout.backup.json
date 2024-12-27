@@ -1,0 +1,778 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\oturum\\sessionoturum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\oturum\\sessionoturum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\dto\\appusereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\dto\\appusereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\component\\trendlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\component\\trendlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\component\\sliderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\component\\sliderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\wwwroot\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\wwwroot\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\sliders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\sliders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\shared\\components\\sliderlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\shared\\components\\sliderlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\shared\\components\\trendlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\shared\\components\\trendlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\sliders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\sliders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\sliders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\sliders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\shared\\components\\cartsumlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\shared\\components\\cartsumlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\views\\home\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\views\\home\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\dto\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\dto\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\component\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\component\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\component\\cartsumlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\component\\cartsumlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\dto\\appuserregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\dto\\appuserregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|c:\\users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\migrations\\20241226132651_mig6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625130C6-394B-4726-9BE8-2F9181FEBF85}|eticaret_uygulamai\\eticaret_uygulamai.csproj|solutionrelative:eticaret_uygulamai\\migrations\\20241226132651_mig6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\wwwroot\\Home\\index.html",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\wwwroot\\Home\\index.html",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\wwwroot\\Home\\index.html",
+              "RelativeToolTip": "eticaret_uygulamai\\wwwroot\\Home\\index.html",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-27T08:36:36.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Sliders\\Index.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Sliders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Sliders\\Index.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Sliders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:45:29.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderList.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Component\\SliderList.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Component\\SliderList.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Component\\SliderList.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Component\\SliderList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:41:12.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrendList.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Component\\TrendList.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Component\\TrendList.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Component\\TrendList.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Component\\TrendList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:41:13.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:37:17.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:37:19.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:41:20.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUserEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Dto\\AppUserEditDto.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Dto\\AppUserEditDto.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Dto\\AppUserEditDto.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Dto\\AppUserEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:34:32.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\Products.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:37:36.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "slider.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\slider.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Models\\slider.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\slider.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Models\\slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:24:11.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionOturum.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Oturum\\SessionOturum.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Oturum\\SessionOturum.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Oturum\\SessionOturum.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Oturum\\SessionOturum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:37:39.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:37:45.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:29:54.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:29:34.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\Components\\SliderList\\Default.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Shared\\Components\\SliderList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\Components\\SliderList\\Default.cshtml*",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Shared\\Components\\SliderList\\Default.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:44:47.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\Components\\TrendList\\Default.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Shared\\Components\\TrendList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\Components\\TrendList\\Default.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Shared\\Components\\TrendList\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:45:15.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:26:07.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:31:23.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:31:18.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Sliders\\Create.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Sliders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Sliders\\Create.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Sliders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:30:19.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Sliders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Sliders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Sliders\\Delete.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Sliders\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:31:06.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Sliders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Sliders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Sliders\\Edit.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Sliders\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:13:36.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_homeLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\_homeLayout.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Shared\\_homeLayout.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\_homeLayout.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Shared\\_homeLayout.cshtml",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:57:40.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:23:16.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:23:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAAEEBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:23:34.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:30:11.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:30:01.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:29:59.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:29:57.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Login\\Index.cshtml*",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Login\\Index.cshtml*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T02:13:16.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T02:38:23.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\Components\\CartSumList\\Default.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Shared\\Components\\CartSumList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Shared\\Components\\CartSumList\\Default.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Shared\\Components\\CartSumList\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:45:12.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Home\\Detay.cshtml",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Views\\Home\\Detay.cshtml",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Views\\Home\\Detay.cshtml",
+              "RelativeToolTip": "eticaret_uygulamai\\Views\\Home\\Detay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:23:29.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Controllers\\SlidersController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:39:39.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Dto\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Dto\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Dto\\CartViewModel.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Dto\\CartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:37:23.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:39:46.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartSumList.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Component\\CartSumList.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Component\\CartSumList.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Component\\CartSumList.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Component\\CartSumList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:41:07.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Component\\LoginController.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Component\\LoginController.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Component\\LoginController.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Component\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:11:57.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Models\\AppRole.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\AppRole.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Models\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:37:26.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:37:33.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\CartItem.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:37:30.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Models\\AppUser.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:23:43.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppUserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Dto\\AppUserRegisterDto.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Dto\\AppUserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Dto\\AppUserRegisterDto.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Dto\\AppUserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:37:51.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241226132651_mig6.cs",
+              "DocumentMoniker": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Migrations\\20241226132651_mig6.cs",
+              "RelativeDocumentMoniker": "eticaret_uygulamai\\Migrations\\20241226132651_mig6.cs",
+              "ToolTip": "C:\\Users\\mbhme\\source\\repos\\eticaret_uygulamai\\eticaret_uygulamai\\Migrations\\20241226132651_mig6.cs",
+              "RelativeToolTip": "eticaret_uygulamai\\Migrations\\20241226132651_mig6.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:26:51.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
